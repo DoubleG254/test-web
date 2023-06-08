@@ -1,0 +1,16 @@
+h1{background-color: aquamarine;
+color: red;font-style: italic;font-size: xx-large;outline: solid aqua;
+border-style: solid;border-color: blue;margin:1%;width: 300px; padding:25px;box-sizing: border-box; justify-content: center;
+justify-self: center;}
+.first{background-color: rgb(129, 129, 202);}
+p{;}
+.flex-container{display:flex;
+flex-direction: column;
+    background-color: navy;
+    justify-content: right;
+border:solid red 0.3cm;width: 700px;font-size: large;}
+.third{display: flex;
+background-color: aqua;justify-content: center;
+border: solid rgb(197, 240, 236) 0.3cm;width: 700px;}
+.fourth{display: flex;
+background-color: gold;justify-content: center;border:solid yellow 0.3cm; width: 700px;}
